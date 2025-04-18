@@ -104,7 +104,7 @@
   },
   "dependencies": {
     "@hypnosphi/create-react-context": "^0.3.1",
-    "@tinymce/tinymce-react": "^4.3.2",
+    "@tinymce/tinymce-react": "^6.1.0",
     "@tiptap/core": "2.1.13",
     "@tiptap/extension-bubble-menu": "2.1.13",
     "@tiptap/extension-character-count": "2.1.13",
